@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.jzvd:jiaozivideoplayer:7.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14e87b0616a1303e5f2635c48b26b957/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14e87b0616a1303e5f2635c48b26b957/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jzvd/jiaozivideoplayer/7.0.4/3f4c3a0906cc482ebd3c9e69981eb4e23f605e92/jiaozivideoplayer-7.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
